@@ -3,4 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Strogonoff de frango
-- Pavê
+- [Pavê](https://github.com/RFATeixeira/livro-receitas/blob/master/receitas/pave.md)
